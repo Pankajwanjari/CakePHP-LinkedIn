@@ -14,7 +14,7 @@ class LinkedinComponent extends Object {
 
 	// PATH DECLARATIONS
 	private $authPath = 'https://api.linkedin.com/';
-	private $apiPath = 'http://api.linkedin.com/v1/';
+	private $apiPath = 'https://api.linkedin.com/v1/';
 	private $requestToken = 'uas/oauth/requestToken';
   
     /**
